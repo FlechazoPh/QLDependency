@@ -1,12 +1,14 @@
 ![青龙面板](https://user-images.githubusercontent.com/94276146/142231757-380c5221-7569-468e-9f68-2d09afeef538.png)
 
 # QLDependency
-青龙全依赖一键安装脚本
+# 青龙全依赖一键安装脚本
 
 
 新版本的青龙(2.10.2+ )，在运行脚本的时候，经常出现
 
+``bash
 “Cannot find module './xxxx'” 
+``
 
 的报错问题 ，原因就是缺少 xxxx 模块，mudole的名字就是报错的 xxxx。
 
@@ -19,8 +21,10 @@
 国内版：
 
 
-
+``bash
 docker exec -it qinglong bash -c "$(curl -fsSL https://ghproxy.com/https://raw.githubusercontent.com/FlechazoPh/QLDependency/main/Shell/QLOneKeyDependency.sh | sh)"
+``
+
 
 
 
