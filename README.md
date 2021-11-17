@@ -104,3 +104,10 @@ Docker restart qinglong
 End
 
 不建议的话顺手给个 **Star**, **方便以后收到脚本更新~**
+
+
+## 鸣谢
+
+* [qinglong](https://github.com/whyour/qinglong)
+
+* [crontab-ui](https://github.com/alseambusher/crontab-ui)
