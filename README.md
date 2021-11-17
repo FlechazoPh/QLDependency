@@ -1,6 +1,8 @@
 ![青龙面板](https://user-images.githubusercontent.com/94276146/142231757-380c5221-7569-468e-9f68-2d09afeef538.png)
 
-  
+ <h1 align="center">【青龙】全依赖环境一键安装脚本</h1>
+
+<div align="center">
 [![docker version][docker-version-image]][docker-version-url] [![docker pulls][docker-pulls-image]][docker-pulls-url] [![docker stars][docker-stars-image]][docker-stars-url] [![docker image size][docker-image-size-image]][docker-image-size-url]
 
 [docker-pulls-image]: https://img.shields.io/docker/pulls/whyour/qinglong?style=flat
@@ -12,7 +14,7 @@
 [docker-image-size-image]: https://img.shields.io/docker/image-size/whyour/qinglong?style=flat
 [docker-image-size-url]: https://hub.docker.com/r/whyour/qinglong
 
-
+</div>
 
 # QLDependency
 # 青龙全依赖一键安装脚本
