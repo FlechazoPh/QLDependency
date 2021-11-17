@@ -64,7 +64,9 @@ docker exec -it qinglong bash -c "$(curl -fsSL https://raw.githubusercontent.com
 
 ## 具体执行方法：
 
-> 安装拉取青龙镜像的就不说了，教程都有 docker pull whyour/qinglong:latest
+> 安装拉取青龙镜像的就不说了，教程都有 `` docker pull whyour/qinglong:latest ``
+
+0. 点击本页面 右上方的 **Star**
 
 1. SSH 进入服务器（或群辉，或软路由等终端环境），输入 `` docker ps ``，查看 青龙 Docker 是否正常运行，记下青龙 Docker的容器名字 ，然后进入下一步。
 
