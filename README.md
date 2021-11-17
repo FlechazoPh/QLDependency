@@ -6,9 +6,9 @@
 
 新版本的青龙(2.10.2+ )，在运行脚本的时候，经常出现
 
-``bash
+```bash
 “Cannot find module './xxxx'” 
-``
+```
 
 的报错问题 ，原因就是缺少 xxxx 模块，mudole的名字就是报错的 xxxx。
 
@@ -21,9 +21,9 @@
 国内版：
 
 
-``bash
+```bash
 docker exec -it qinglong bash -c "$(curl -fsSL https://ghproxy.com/https://raw.githubusercontent.com/FlechazoPh/QLDependency/main/Shell/QLOneKeyDependency.sh | sh)"
-``
+```
 
 
 
