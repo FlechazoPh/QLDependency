@@ -18,7 +18,7 @@ A timed task management panel that supports typescript, javaScript, python3, and
 [docker-image-size-url]: https://hub.docker.com/r/whyour/qinglong
 
 <br>
-欢迎点 <b>★Star</b> 和 Fork
+欢迎点 <b>★ Star</b> 和 Fork
 </div>
 
 # QLDependency
