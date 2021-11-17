@@ -1,4 +1,16 @@
 ![青龙面板](https://user-images.githubusercontent.com/94276146/142231757-380c5221-7569-468e-9f68-2d09afeef538.png)
+<dic>
+  
+[docker-pulls-image]: https://img.shields.io/docker/pulls/whyour/qinglong?style=flat
+[docker-pulls-url]: https://hub.docker.com/r/whyour/qinglong
+[docker-version-image]: https://img.shields.io/docker/v/whyour/qinglong?style=flat
+[docker-version-url]: https://hub.docker.com/r/whyour/qinglong/tags?page=1&ordering=last_updated
+[docker-stars-image]: https://img.shields.io/docker/stars/whyour/qinglong?style=flat
+[docker-stars-url]: https://hub.docker.com/r/whyour/qinglong
+[docker-image-size-image]: https://img.shields.io/docker/image-size/whyour/qinglong?style=flat
+[docker-image-size-url]: https://hub.docker.com/r/whyour/qinglong
+</div>
+
 
 # QLDependency
 # 青龙全依赖一键安装脚本
