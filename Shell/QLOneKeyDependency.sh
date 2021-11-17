@@ -2,7 +2,7 @@
 #
 
 # 青龙一键安装脚本
-# GitHub仓库： 
+# GitHub仓库： https://github.com/FlechazoPh/QLDependency
 TIME() {
 [[ -z "$1" ]] && {
 	echo -ne " "
