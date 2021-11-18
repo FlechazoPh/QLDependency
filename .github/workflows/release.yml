@@ -51,4 +51,4 @@ jobs:
         with:
           args: OneKeyQLDependency.tar application/tar
         env:
-          GITHUB_TOKEN: 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
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
