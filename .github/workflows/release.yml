@@ -16,8 +16,12 @@ jobs:
         uses: actions/setup-node@v1
         with:
           node-version: 12
+      - name: RunInstall
+        run: npm install --prefix assets
+      - name: RunFix
+        run: npm --prefix ./assets ci --progress=false --no-audit --loglevel=error
       - name: Install dependencies
-        run: npm i & npm ci
+        run: npm ci
       - name: Release
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
