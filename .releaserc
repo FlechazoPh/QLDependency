@@ -8,6 +8,7 @@
         [
             "@semantic-release/git",
             {
+                "npmPublish": false,
                 "assets": [
                     "package.json",
                     "CHANGELOG.md"
