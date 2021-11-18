@@ -32,4 +32,4 @@ jobs:
       - name: Upload to Release
         uses: JasonEtco/upload-to-release@v0.1.1
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.P_TOKEN }}
