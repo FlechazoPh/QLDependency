@@ -18,13 +18,14 @@ jobs:
           tag_name: ${{ github.ref }}
           release_name: Release ${{ github.ref }}
           body: |
-            Test upload-to-github-release works with ```actions/create-release```
+            AutoUpdate  ```OneKeyQLDependency.sh``` Click to download
           draft: true
           prerelease: false
       - name: Gzip
         run: |
           mkdir OneKeyQLDependency
           cp Shell/QLOneKeyDependency.sh OneKeyQLDependency
+          cp README.md OneKeyQLDependency
           tar -cvf OneKeyQLDependency.tar OneKeyQLDependency
       
       - name: Simple Upload to Release
