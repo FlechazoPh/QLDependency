@@ -60,7 +60,7 @@ jobs:
           # Artifact name
           name: QLOneKeyDependency.sh
           # Path to the file to upload
-          path: Shell/QLOneKeyDependency.sh
+          path: ./Shell/QLOneKeyDependency.sh
           # Content type for the file
 #           content-type: # optional, default is application/octet-stream
           # secrets.GITHUB_TOKEN
