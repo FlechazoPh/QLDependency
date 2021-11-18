@@ -23,7 +23,7 @@ jobs:
       - name: Install dependencies
         run: npm ci
       - name: InstallPlugs
-        run: npm install @semantic-release/changelog
+        run: npm install @semantic-release/changelog @semantic-release/git
       - name: Release
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
