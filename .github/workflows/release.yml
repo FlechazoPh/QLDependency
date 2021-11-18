@@ -36,7 +36,7 @@ jobs:
           tags: false
           draft: false
           release_id: ${{ steps.create_release.outputs.id }}
-          overwrite: true
+          overwrite: false
           verbose: true
 
 
