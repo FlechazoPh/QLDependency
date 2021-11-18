@@ -32,6 +32,6 @@ jobs:
       - name: Upload to Release
         uses: JasonEtco/upload-to-release@v0.1.1
         with:
-          args: Shell/QLOneKeyDependency.sh
+          args: QLOneKeyDependency.sh
         env:
           GITHUB_TOKEN: ${{ secrets.P_TOKEN }}
