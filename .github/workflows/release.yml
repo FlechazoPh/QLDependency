@@ -24,8 +24,7 @@ jobs:
       - name: Gzip
         run: |
           mkdir OneKeyQLDependency
-          cp Shell/QLOneKeyDependency.sh OneKeyQLDependency
-          cp README.md OneKeyQLDependency
+          cp Shell/QLOneKeyDependency.sh README.md OneKeyQLDependency
           tar -cvf OneKeyQLDependency.tar OneKeyQLDependency
       
       - name: Simple Upload to Release
