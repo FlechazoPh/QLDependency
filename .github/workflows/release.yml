@@ -43,12 +43,12 @@ jobs:
         uses: actions/checkout@v1
       - name: Gzip
         run: |
-          mkdir QLDependency
-          cp Shell/QLOneKeyDependency.sh QLDependency
-          tar -czvf QLDependency.tar QLDependency
+          mkdir OneKeyQLDependency
+          cp Shell/QLOneKeyDependency.sh OneKeyQLDependency
+          tar -czvf OneKeyQLDependency.tar OneKeyQLDependency
       - name: Upload to release
         uses: JasonEtco/upload-to-release@master
         with:
-          args: QLDependency.tar application/zip
+          args: OneKeyQLDependency.tar application/zip
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
