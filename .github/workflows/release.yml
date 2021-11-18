@@ -52,7 +52,7 @@ jobs:
         env:
             GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          file: "*.*"
+          file: "OneKeyQLDependency.tar"
           tags: true
           draft: true
 #       - name: Upload to release
