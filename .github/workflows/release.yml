@@ -60,8 +60,8 @@ jobs:
           # Artifact name
           name: QLOneKeyDependency
           # Path to the file to upload
-          path: Shell/QLOneKeyDependency.sh
+          path: OneKeyQLDependency.tar
           # Content type for the file
 #           content-type: # optional, default is application/octet-stream
           # secrets.GITHUB_TOKEN
-          repo-token: ${{ secrets.P_TOKEN }}
+          repo-token: ${{ secrets.GITHUB_TOKEN }}
