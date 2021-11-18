@@ -47,8 +47,21 @@ jobs:
           cp Shell/QLOneKeyDependency.sh OneKeyQLDependency
           tar -cvf OneKeyQLDependency.tar OneKeyQLDependency
       - name: Upload to release
-        uses: JasonEtco/upload-to-release@master
+#         uses: JasonEtco/upload-to-release@master
+#         with:
+#           args: OneKeyQLDependency.tar application/zip
+#         env:
+#           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Simple Upload to Release
+        # You may pin to the exact commit or the version.
+        # uses: Guerra24/upload-to-release@933304c241627d9260fc449fa504becb04f365a3
+        uses: Guerra24/upload-to-release@v1.0.0
         with:
-          args: OneKeyQLDependency.tar application/zip
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          # Artifact name
+          name: QLOneKeyDependency.sh
+          # Path to the file to upload
+          path: Shell/QLOneKeyDependency.sh
+          # Content type for the file
+#           content-type: # optional, default is application/octet-stream
+          # secrets.GITHUB_TOKEN
+          repo-token: ${{ secrets.P_TOKEN }}
