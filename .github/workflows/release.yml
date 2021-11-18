@@ -54,7 +54,7 @@ jobs:
         with:
           file: "OneKeyQLDependency.tar"
           tags: true
-          draft: true
+          draft: false
 #       - name: Upload to release
 #         uses: JasonEtco/upload-to-release@master
 #         with:
