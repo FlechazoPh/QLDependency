@@ -45,10 +45,10 @@ jobs:
         run: |
           mkdir QLDependency
           cp Shell/QLOneKeyDependency.sh QLDependency
-          tar -czvf QLDependency.tar.gz QLDependency
+          tar -czvf QLDependency.tar QLDependency
       - name: Upload to release
         uses: JasonEtco/upload-to-release@master
         with:
-          args: QLDependency.tar.gz application/zip
+          args: QLDependency.tar application/zip
         env:
           GITHUB_TOKEN: ${{ secrets.P_TOKEN }}
