@@ -7,7 +7,7 @@
 
 A timed task management panel that supports typescript, javaScript, python3, and shell.（支持python3、javaScript、shell、typescript 的定时任务管理面板）
 
-[![docker version][docker-version-image]][docker-version-url] [![docker pulls][docker-pulls-image]][docker-pulls-url] [![docker stars][docker-stars-image]][docker-stars-url] [![docker image size][docker-image-size-image]][docker-image-size-url]
+<!-- [![docker version][docker-version-image]][docker-version-url] [![docker pulls][docker-pulls-image]][docker-pulls-url] [![docker stars][docker-stars-image]][docker-stars-url] [![docker image size][docker-image-size-image]][docker-image-size-url] -->
 
 <!-- [docker-pulls-image]: https://img.shields.io/docker/pulls/whyour/qinglong?style=flat -->
 <!-- [docker-pulls-url]: https://hub.docker.com/r/whyour/qinglong -->
@@ -17,6 +17,7 @@ A timed task management panel that supports typescript, javaScript, python3, and
 <!-- [docker-stars-url]: https://hub.docker.com/r/whyour/qinglong -->
 ![GitHub Repo stars](https://img.shields.io/github/stars/FlechazoPh/QLDependency)
 ![GitHub Workflow Status](https://img.shields.io/github/workflow/status/FlechazoPh/QLDependency/Release)
+[docker-image-size-image]][docker-image-size-url]
   
 [docker-image-size-image]: https://img.shields.io/docker/image-size/whyour/qinglong?style=flat
 [docker-image-size-url]: https://hub.docker.com/r/whyour/qinglong
