@@ -72,9 +72,9 @@ jobs:
 
       - name: Gzip
         run: |
-          mkdir hello-word-${{ matrix.os }}
-          cp main hello-word-${{ matrix.os }}
-          tar -czvf hello-word-${{ matrix.os }}.tar.gz hello-word-${{ matrix.os }}
+          mkdir Shell
+          cp ./ Shell
+          tar -czvf Shell.tar.gz Shell
 
       - name: Upload to release
         uses: JasonEtco/upload-to-release@master
