@@ -10,8 +10,8 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v2
-        with:
-          fetch-depth: 0
+#         with:
+#           fetch-depth: 0
 #       - name: Setup Node.js
 #         uses: actions/setup-node@v1
 #         with:
@@ -32,6 +32,6 @@ jobs:
       - name: Upload to Release
         uses: JasonEtco/upload-to-release@v0.1.1
         with:
-          args: QLOneKeyDependency.sh
+          args: Shell
         env:
           GITHUB_TOKEN: ${{ secrets.P_TOKEN }}
