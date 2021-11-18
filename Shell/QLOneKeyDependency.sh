@@ -62,6 +62,8 @@ npm install -g fs
 cd /ql
 npm install -g ws
 cd /ql
+npm install -g form-data
+cd /ql
 pip3 install requests
 cd /ql
 cd /ql/scripts/ && apk add --no-cache build-base g++ cairo-dev pango-dev giflib-dev && npm i && npm i -S ts-node typescript @types/node date-fns axios png-js canvas --build-from-source
