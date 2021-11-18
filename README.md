@@ -30,7 +30,7 @@ A timed task management panel that supports typescript, javaScript, python3, and
 
 # QLDependency
 # 青龙全依赖一键安装脚本 部署文档
-
+文档地址： ![GitBook 文档](https://doc.flechazo.ml/GitBookQLDenpency/青龙/2021-11-17-青龙依赖一键安装脚本.html)
 
 新版本的青龙(2.10.2+ )，在运行脚本的时候，经常出现
 
