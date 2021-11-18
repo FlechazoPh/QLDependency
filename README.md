@@ -21,6 +21,8 @@ A timed task management panel that supports typescript, javaScript, python3, and
 <br>
 <h2 <b>本仓库源地址 https://github.com/FlechazoPh/QLDependency </b> </h2><br>
 欢迎点 <b>★ Star</b> 和 Fork
+
+https://github.com/FlechazoPh/QLDenpendency/star
 </div>
 
 # QLDependency
