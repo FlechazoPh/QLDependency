@@ -36,48 +36,18 @@ on:
 #         env:
 #           GITHUB_TOKEN: ${{ secrets.P_TOKEN }}
 jobs:
-
   release:
-    if: github.repository == 'FlechazoPh/QLDependency'
-    name: Build with go ${{ matrix.go_version }} on ${{ matrix.os }} and upload
-    runs-on: ${{ matrix.os }}
-
-    strategy:
-      matrix:
-        go_version: [1.13]
-        os: [ubuntu-latest]
-
+    runs-on: ubuntu-latest
     steps:
-
-      - name: Set up Go ${{ matrix.go_version }}
-        uses: actions/setup-go@v1
-        with:
-          go-version: ${{ matrix.go_version }}
-        id: go
-
-      - name: Check out code into the Go module directory
+      - name: Pull source
         uses: actions/checkout@v1
-
-      - name: Get dependencies
-        run: |
-          go get -v -t -d ./...
-          if [ -f Gopkg.toml ]; then
-              curl https://raw.githubusercontent.com/golang/dep/master/install.sh | sh
-              dep ensure
-          fi
-
-#       - name: Build
-#         run: |
-#           go build -v -o main .
-
       - name: Gzip
         run: |
           mkdir QLDependency
           cp Shell/QLOneKeyDependency.sh QLDependency
           tar -czvf QLDependency.tar.gz QLDependency
-
       - name: Upload to release
-        uses: JasonEtco/upload-to-release@v0.1.1
+        uses: JasonEtco/upload-to-release@master
         with:
           args: QLDependency.tar.gz
         env:
