@@ -3,44 +3,24 @@ on:
   push:
     branches:
       - main
-# jobs:
-#   release:
-#     name: Release
-#     runs-on: ubuntu-18.04
-#     steps:
-#       - name: Checkout
-#         uses: actions/checkout@v2
-# #         with:
-# #           fetch-depth: 0
-# #       - name: Setup Node.js
-# #         uses: actions/setup-node@v1
-# #         with:
-# #           node-version: 14.17
-# #       - name: RunInstall
-# #         run: npm install --prefix assets
-# #       - name: RunFix
-# #         run: npm --prefix ./assets ci --progress=false --no-audit --loglevel=error
-# #       - name: Install dependencies
-# #         run: npm ci
-# #       - name: InstallPlugs
-# #         run: npm install @semantic-release/changelog @semantic-release/git
-# #       - name: Release
-# #         env:
-# #           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-# #           NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
-# #         run: npx semantic-release
-#       - name: Upload to Release
-#         uses: JasonEtco/upload-to-release@v0.1.1
-#         with:
-#           args: Shell
-#         env:
-#           GITHUB_TOKEN: ${{ secrets.P_TOKEN }}
 jobs:
   release:
     runs-on: ubuntu-latest
     steps:
       - name: Pull source
         uses: actions/checkout@v1
+      - name: Create Release
+        id: create_release
+        uses: actions/create-release@v1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # This token is provided by Actions, you do not need to create your own token
+        with:
+          tag_name: ${{ github.ref }}
+          release_name: Release ${{ github.ref }}
+          body: |
+            Test upload-to-github-release works with ```actions/create-release```
+          draft: true
+          prerelease: false
       - name: Gzip
         run: |
           mkdir OneKeyQLDependency
@@ -55,24 +35,9 @@ jobs:
           file: "OneKeyQLDependency.tar"
           tags: false
           draft: false
-#       - name: Upload to release
-#         uses: JasonEtco/upload-to-release@master
-#         with:
-#           args: OneKeyQLDependency.tar application/zip
-#         env:
-#           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-#       - name: Simple Upload to Release
-#         # You may pin to the exact commit or the version.
-#         # uses: Guerra24/upload-to-release@933304c241627d9260fc449fa504becb04f365a3
-#         uses: Guerra24/upload-to-release@v1.0.0
-#         with:
-#           # Artifact name
-#           name: QLOneKeyDependency
-#           # Path to the file to upload
-#           path: OneKeyQLDependency.tar
-#           # Content type for the file
-# #           content-type: # optional, default is application/octet-stream
-#           # secrets.GITHUB_TOKEN
-#           repo-token: ${{ secrets.GITHUB_TOKEN }}
+          release_id: ${{ steps.create_release.outputs.id }}
+          overwrite: true
+          verbose: true
+
 
 
