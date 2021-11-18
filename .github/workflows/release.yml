@@ -79,6 +79,6 @@ jobs:
       - name: Upload to release
         uses: JasonEtco/upload-to-release@master
         with:
-          args: hello-word-${{ matrix.os }}.tar.gz application/octet-stream
+          args: QLDependency.tar.gz application/octet-stream
         env:
           GITHUB_TOKEN: ${{ secrets.P_TOKEN }}
