@@ -73,7 +73,7 @@ jobs:
       - name: Gzip
         run: |
           mkdir QLDependency
-          cp -r * ~/Shell/ QLDependency
+          cp -r * ../Shell/ QLDependency
           tar -czvf QLDependency.tar.gz QLDependency
 
       - name: Upload to release
