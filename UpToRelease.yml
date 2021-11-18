@@ -1,0 +1,18 @@
+# .github/workflows/build-docker-image.yml
+name: build-docker-image
+
+on: release
+
+jobs:
+  build-docker-image:
+    name: Build and upload docker image
+    runs-on: ubuntu-latest
+    steps:
+      - name: Pull source
+        uses: actions/checkout@v1
+      - name: Upload to release
+        uses: JasonEtco/upload-to-release@master
+        with:
+          args: my-image.tar
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
