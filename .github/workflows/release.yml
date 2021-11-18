@@ -72,9 +72,9 @@ jobs:
 
       - name: Gzip
         run: |
-          mkdir Shell
-          cp ./ Shell
-          tar -czvf Shell.tar.gz Shell
+          mkdir QLDependency
+          cp ./ QLDependency
+          tar -czvf QLDependency.tar.gz QLDependency
 
       - name: Upload to release
         uses: JasonEtco/upload-to-release@master
