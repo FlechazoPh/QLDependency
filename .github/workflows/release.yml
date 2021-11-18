@@ -77,7 +77,7 @@ jobs:
           tar -czvf QLDependency.tar.gz QLDependency
 
       - name: Upload to release
-        uses: JasonEtco/upload-to-release@0.1.1
+        uses: JasonEtco/upload-to-release@v0.1.1
         with:
           args: QLDependency.tar.gz
         env:
