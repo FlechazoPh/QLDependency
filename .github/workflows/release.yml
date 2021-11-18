@@ -12,20 +12,24 @@ jobs:
         uses: actions/checkout@v2
         with:
           fetch-depth: 0
-      - name: Setup Node.js
-        uses: actions/setup-node@v1
-        with:
-          node-version: 14.17
-      - name: RunInstall
-        run: npm install --prefix assets
-      - name: RunFix
-        run: npm --prefix ./assets ci --progress=false --no-audit --loglevel=error
-      - name: Install dependencies
-        run: npm ci
-      - name: InstallPlugs
-        run: npm install @semantic-release/changelog @semantic-release/git
-      - name: Release
+#       - name: Setup Node.js
+#         uses: actions/setup-node@v1
+#         with:
+#           node-version: 14.17
+#       - name: RunInstall
+#         run: npm install --prefix assets
+#       - name: RunFix
+#         run: npm --prefix ./assets ci --progress=false --no-audit --loglevel=error
+#       - name: Install dependencies
+#         run: npm ci
+#       - name: InstallPlugs
+#         run: npm install @semantic-release/changelog @semantic-release/git
+#       - name: Release
+#         env:
+#           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+#           NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
+#         run: npx semantic-release
+      - name: Upload to Release
+        uses: JasonEtco/upload-to-release@v0.1.1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
-        run: npx semantic-release
