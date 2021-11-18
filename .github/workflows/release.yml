@@ -66,9 +66,9 @@ jobs:
               dep ensure
           fi
 
-      - name: Build
-        run: |
-          go build -v -o main .
+#       - name: Build
+#         run: |
+#           go build -v -o main .
 
       - name: Gzip
         run: |
