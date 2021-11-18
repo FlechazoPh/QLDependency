@@ -51,4 +51,4 @@ jobs:
         with:
           args: QLDependency.tar application/zip
         env:
-          GITHUB_TOKEN: ${{ secrets.P_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
