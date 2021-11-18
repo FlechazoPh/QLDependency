@@ -58,9 +58,9 @@ jobs:
         uses: Guerra24/upload-to-release@v1.0.0
         with:
           # Artifact name
-          name: QLOneKeyDependency.sh
+          name: QLOneKeyDependency
           # Path to the file to upload
-          path: ./Shell
+          path: Shell/QLOneKeyDependency.sh
           # Content type for the file
 #           content-type: # optional, default is application/octet-stream
           # secrets.GITHUB_TOKEN
