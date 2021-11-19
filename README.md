@@ -20,6 +20,8 @@ A timed task management panel that supports typescript, javaScript, python3, and
 ![GitHub Workflow Status](https://img.shields.io/github/workflow/status/FlechazoPh/QLDependency/Release)
 <!-- [docker-image-size-image]][docker-image-size-url] -->
   
+
+![GitHub Repo stars](https://img.shields.io/github/stars/whyour/qinglong)
 [docker-image-size-image]: https://img.shields.io/docker/image-size/whyour/qinglong?style=flat
 [docker-image-size-url]: https://hub.docker.com/r/whyour/qinglong
 
