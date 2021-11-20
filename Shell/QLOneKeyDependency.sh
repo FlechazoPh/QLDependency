@@ -3,6 +3,11 @@
 
 # 青龙一键安装脚本
 # GitHub仓库： https://github.com/FlechazoPh/QLDependency
+
+# 安装报错，请提交Issue
+
+# 有其他需要的依赖，欢迎到源仓库提交Pull Request
+
 TIME() {
 [[ -z "$1" ]] && {
 	echo -ne " "
@@ -93,5 +98,8 @@ apk add python3 zlib-dev gcc jpeg-dev python3-dev musl-dev freetype-dev
 
 echo
 TIME g "依赖安装完毕...建议重启 Docker "
+
+echo
+TIME g "有任何问题，请在此仓库提交Issue： https://github.com/FlechazoPh/QLDependency"
 echo
 exit 0
