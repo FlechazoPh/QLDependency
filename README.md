@@ -30,12 +30,13 @@ A timed task management panel that supports typescript, javaScript, python3, and
 
 <br>
 <h2 <b>本仓库源地址【 https://github.com/FlechazoPh/QLDependency 】</b> </h2><br>
+【文档仓库地址】https://doc.flechazo.ml/青龙/2021-11-17-青龙依赖一键安装脚本.html
 欢迎前往原仓库点 <b>★ Star</b> 和 Fork
 </div>
 
 # QLDependency
 # 青龙全依赖一键安装脚本 部署文档
-文档地址： [GitBook 文档](https://doc.flechazo.ml/GitBookQLDenpency/青龙/2021-11-17-青龙依赖一键安装脚本.html)
+文档地址： [GitBook 文档](https://doc.flechazo.ml/青龙/2021-11-17-青龙依赖一键安装脚本.html)
 
 新版本的青龙(2.10.2+ )，在运行脚本的时候，经常出现
 
