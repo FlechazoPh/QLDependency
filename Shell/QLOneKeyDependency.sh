@@ -32,46 +32,56 @@ echo
 echo
 npm config set registry https://registry.npm.taobao.org
 cd /ql
+pnpm add -g pnpm
+
+pnpm install -g
+
 npm install -g npm
-cd /ql
+
 npm install -g png-js
-cd /ql
+
 npm install -g date-fns
-cd /ql
+
 npm install -g axios
-cd /ql
+
 npm install -g crypto-js
-cd /ql
+
 npm install -g ts-md5
-cd /ql
+
 npm install -g tslib
-cd /ql
+
 npm install -g @types/node
-cd /ql
+
 npm install -g requests
-cd /ql
+
 npm install -g tough-cookie
-cd /ql
+
 npm install -g jsdom
-cd /ql
+
 npm install -g download
-cd /ql
+
 npm install -g tunnel
-cd /ql
+
 npm install -g fs
-cd /ql
+
 npm install -g ws
-cd /ql
+
 npm install -g form-data
-cd /ql
+
+pnpm install -g js-base64
+
+pnpm install -g qrcode-terminal
+
+pnpm install -g silly-datetime
+
 pip3 install requests
-cd /ql
+
 cd /ql/scripts/ && apk add --no-cache build-base g++ cairo-dev pango-dev giflib-dev && npm i && npm i -S ts-node typescript @types/node date-fns axios png-js canvas --build-from-source
 cd /ql
 apk add --no-cache build-base g++ cairo-dev pango-dev giflib-dev && cd scripts && npm install canvas --build-from-source
 cd /ql
 apk add python3 zlib-dev gcc jpeg-dev python3-dev musl-dev freetype-dev
-cd /ql
+
 echo
 TIME g "依赖安装完毕..."
 echo
