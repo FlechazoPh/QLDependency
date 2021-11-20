@@ -30,6 +30,15 @@ echo
 sleep 3
 echo
 echo
+
+echo
+"当前node版本(如果没有node，请自行安装): "
+npm -v
+
+echo
+"当前npm版本(如果没有npm，请自行安装): "
+npm -v
+
 npm config set registry https://registry.npm.taobao.org
 cd /ql
 pnpm add -g pnpm
