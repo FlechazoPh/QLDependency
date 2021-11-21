@@ -9,6 +9,9 @@ jobs:
     steps:
       - name: Pull source
         uses: actions/checkout@v1
+      - name: Get version
+        id: get_version
+        run: echo ::set-output name=VERSION::${GITHUB_REF/refs\/tags\//}
       - name: Create Release
         id: create_release
         uses: actions/create-release@v1
@@ -32,10 +35,6 @@ jobs:
           mkdir OneKeyQLDependency
           cp Shell/QLOneKeyDependency.sh README.md OneKeyQLDependency
           tar -cvf OneKeyQLDependency.tar OneKeyQLDependency
-      - name: Get version
-        id: get_version
-        run: echo ::set-output name=VERSION::${GITHUB_REF/refs\/tags\//}
-      
       - name: Simple Upload to Release
         uses: xresloader/upload-to-github-release@v1
         env:
