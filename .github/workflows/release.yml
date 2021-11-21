@@ -20,8 +20,8 @@ jobs:
         with:
 #           tag_name: ${{ github.ref }}
 #           release_name: Release ${{ github.ref }}
-          tag_name: ${{ steps.get_version.outputs.VERSION }}
-          release_name: ${{ steps.get_version.outputs.VERSION }}
+          tag_name: Version ${{ steps.get_version.outputs.VERSION }}
+          release_name: Publish Update Release ${{ steps.get_version.outputs.VERSION }}
           body: |
             Update: Add some dependences.
             Fix: Fix Bugs
