@@ -18,7 +18,8 @@ jobs:
           tag_name: ${{ github.ref }}
           release_name: Release ${{ github.ref }}
           body: |
-            Update: Fix Bugs
+            Update: Add some dependences.
+            Fix: Fix Bugs
             Release Version  ```OneKeyQLDependency.tar``` Click to download
             欢迎点 Star, 下载
             Welcome To Star this repo.
