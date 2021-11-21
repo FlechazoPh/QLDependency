@@ -30,12 +30,17 @@ jobs:
           mkdir OneKeyQLDependency
           cp Shell/QLOneKeyDependency.sh README.md OneKeyQLDependency
           tar -cvf OneKeyQLDependency.tar OneKeyQLDependency
+      - name: Get version
+        id: get_version
+        run: echo ::set-output name=VERSION::${GITHUB_REF/refs\/tags\//}
       
       - name: Simple Upload to Release
         uses: xresloader/upload-to-github-release@v1
         env:
             GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
+          tag_name: ${{ steps.get_version.outputs.VERSION }}
+          release_name: ${{ steps.get_version.outputs.VERSION }}
           file: "OneKeyQLDependency.tar"
           tags: false
           draft: false
