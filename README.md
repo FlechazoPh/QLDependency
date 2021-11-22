@@ -1,6 +1,6 @@
 ![青龙面板](https://user-images.githubusercontent.com/94276146/142231757-380c5221-7569-468e-9f68-2d09afeef538.png)
 
-
+***
 <h1 align="center">【青龙】全依赖环境一键安装脚本 | QLDependency </h1>
 
 <div align="center">
@@ -57,6 +57,7 @@ A timed task management panel that supports typescript, javaScript, python3, and
 > ***您使用或者复制了本仓库且本人制作的任何脚本，则视为 `已接受` 此声明，请仔细阅读***
 
 
+***
 ***
 
 新版本的青龙(2.10.2+ )，在运行脚本的时候，经常出现
