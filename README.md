@@ -129,8 +129,8 @@ End
 
 <table> 
 <tr> 
- <td> <p align="center">支付宝</p> <img width="300" height="300" src="https://cdn.jsdelivr.net/gh/FlechazoPh/QLDenpency/asstes/alipay.jpg" /> </td> 
- <td> <p align="center">微信</p> <img width="300" height="300" src="https://cdn.jsdelivr.net/gh/FlechazoPh/QLDenpency/assets/wechat.jpg" /></td> 
+ <td> <p align="center">支付宝</p> <img width="300" height="300" src="https://cdn.jsdelivr.net/gh/FlechazoPh/QLDenpency/asstes/3F596EC7-92D9-49DA-9CA3-78D2DE07838E.jpeg" /> </td> 
+ <td> <p align="center">微信</p> <img width="300" height="300" src="https://cdn.jsdelivr.net/gh/FlechazoPh/QLDenpency/assets/4B6DD0C1-8ECE-4C09-A0F7-3B6A36F399E7.jpeg" /></td> 
 </tr> 
 </table>
 
