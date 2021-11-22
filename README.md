@@ -57,11 +57,17 @@ A timed task management panel that supports typescript, javaScript, python3, and
 > ***您使用或者复制了本仓库且本人制作的任何脚本，则视为 `已接受` 此声明，请仔细阅读***
 
 
+***
+
 新版本的青龙(2.10.2+ )，在运行脚本的时候，经常出现
 
 ```bash
 
-“ Cannot find module './xxxx' ” 
+“ Cannot find module 'xxxx' ” 
+
+or
+
+“ 'xxxx' module not found ” 
 
 ```
 
