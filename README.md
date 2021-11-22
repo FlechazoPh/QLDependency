@@ -125,6 +125,16 @@ End
 有新的需要的依赖，请测试完成后提交pull request，等待审核通过合并到项目中
 
 
+## 请作者喝杯咖啡～ ☕
+
+<table> 
+<tr> 
+ <td> <p align="center">支付宝</p> <img width="300" height="300" src="https://cdn.jsdelivr.net/gh/FlechazoPh/QLDenpency/asstes/alipay.jpg" /> </td> 
+ <td> <p align="center">微信</p> <img width="300" height="300" src="https://cdn.jsdelivr.net/gh/FlechazoPh/QLDenpency/assets/wechat.jpg" /></td> 
+</tr> 
+</table>
+
+
 ## 鸣谢
 
 * [qinglong](https://github.com/whyour/qinglong)
