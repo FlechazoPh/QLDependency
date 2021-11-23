@@ -48,6 +48,14 @@ jobs:
           release_id: ${{ steps.create_release.outputs.id }}
           overwrite: false
           verbose: true
-
+      - name: Mirror the Github organization repos to Gitee.
+        uses: Yikun/hub-mirror-action@master
+        with:
+          src: github/FlechazoPh
+          dst: gitee/FlechazoPh
+          dst_key: ${{ secrets.GITEE_PRIVATE_KEY }}
+          dst_token: ${{ secrets.GITEE_TOKEN }}
+          static_list: QLDependency
+          account_type: user
 
 
