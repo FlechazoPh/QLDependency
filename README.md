@@ -1,6 +1,7 @@
 ![青龙面板](https://user-images.githubusercontent.com/94276146/142231757-380c5221-7569-468e-9f68-2d09afeef538.png)
 
 ***
+
 <h1 align="center">【青龙】全依赖环境一键安装脚本 | QLDependency </h1>
 
 <div align="center">
