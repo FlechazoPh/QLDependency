@@ -168,6 +168,10 @@ End
 </table>
 
 
+## Star 趋势 /Stargazers over time
+
+[![Stargazers over time](https://starchart.cc/FlechazoPh/QLDependency.svg)](https://starchart.cc/FlechazoPh/QLDependency)
+
 ## 鸣谢
 
 * [qinglong](https://github.com/whyour/qinglong)
@@ -176,7 +180,4 @@ End
 
 
 
-## Stargazers over time
-
-[![Stargazers over time](https://starchart.cc/FlechazoPh/QLDependency.svg)](https://starchart.cc/FlechazoPh/QLDependency)
 
