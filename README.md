@@ -173,3 +173,10 @@ End
 * [qinglong](https://github.com/whyour/qinglong)
 
 * [crontab-ui](https://github.com/alseambusher/crontab-ui)
+
+
+
+## Stargazers over time
+
+[![Stargazers over time](https://starchart.cc/FlechazoPh/QLDependency.svg)](https://starchart.cc/FlechazoPh/QLDependency)
+
