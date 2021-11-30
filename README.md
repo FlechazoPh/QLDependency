@@ -168,7 +168,7 @@ End
 </table>
 
 
-## Star 趋势 /Stargazers over time
+## ★ Star 趋势 /Stargazers Over Time
 
 [![Stargazers over time](https://starchart.cc/FlechazoPh/QLDependency.svg)](https://starchart.cc/FlechazoPh/QLDependency)
 
