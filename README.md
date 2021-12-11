@@ -167,14 +167,13 @@ End
 </tr> 
 </table>
 
-## 赞助列表 ☕
+## 赞助列表（时间倒叙排序） ☕
 
-<table style="table-layout: fixed;" width=100% > 
-<tr> 
- <td> <p align="center">昵称</p> * 人 </td> 
- <td> <p align="center">赞助金额</p> 5.00 ￥ </td> 
-</tr> 
-</table>
+| 昵称      | 赞助金额 |
+| ----------- | ----------- |
+| * 人      | 5.00 ￥       |
+| * 晨   | 18 ￥        |
+
 
 
 ## ★ Star 趋势 /Stargazers Over Time
