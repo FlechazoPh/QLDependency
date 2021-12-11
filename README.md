@@ -162,7 +162,7 @@ End
 
 ## 请作者喝杯咖啡 (进微信交流群)～ ☕
 
-<table style="table-layout: fixed;" width=100% > 
+<!-- <table style="table-layout: fixed;" width=100% > 
 <tr> 
  <td> <p align="center">支付宝</p> <img width="300" height="300" src="https://cdn.jsdelivr.net/gh/FlechazoPh/QLDependency@main/assets/3F596EC7-92D9-49DA-9CA3-78D2DE07838E.jpeg" /> </td> 
  <td> <p align="center">微信</p> <img width="300" height="300" src="https://cdn.jsdelivr.net/gh/FlechazoPh/QLDependency@main/assets/4B6DD0C1-8ECE-4C09-A0F7-3B6A36F399E7.jpeg" /></td> 
@@ -171,13 +171,12 @@ End
    
   <td> <p align="center">加不了群请加微信好友(备注 Github)</p> <img width="300" height="300" src="https://cdn.jsdelivr.net/gh/FlechazoPh/QLDependency@main/assets/20211127211122.jpg" /></td> 
 </tr> 
-</table>
+</table> -->
 
-|    支付宝     |  赞助金额   |     留言     |
+|    支付宝     |  微信   |     微信交流群(活码，需微信扫描两次)     | Telegram 群组(https://t.me/github_chats) | 加不了群请加微信好友(备注 Github) |
 | ----------- | ----------- |  ----------- |
-| <img width="300" height="300" src="https://cdn.jsdelivr.net/gh/FlechazoPh/QLDependency@main/assets/3F596EC7-92D9-49DA-9CA3-78D2DE07838E.jpeg" />        | 5.00 ￥     | 谢谢~        |
-| * 晨        | 18.00 ￥    | 谢谢大佬！！ |
-| Alan        | 2.50 ￥     |              |
+| <img width="300" height="300" src="https://cdn.jsdelivr.net/gh/FlechazoPh/QLDependency@main/assets/3F596EC7-92D9-49DA-9CA3-78D2DE07838E.jpeg" /> | <img width="300" height="300" src="https://cdn.jsdelivr.net/gh/FlechazoPh/QLDependency@main/assets/4B6DD0C1-8ECE-4C09-A0F7-3B6A36F399E7.jpeg" />     | <img width="300" height="300" src="https://cdn.jsdelivr.net/gh/FlechazoPh/QLDependency@main/assets/wechat_group.png" /> | <img width="300" height="300" src="https://cdn.jsdelivr.net/gh/FlechazoPh/QLDependency@main/assets/tggroup.png" /> | <img width="300" height="300" src="https://cdn.jsdelivr.net/gh/FlechazoPh/QLDependency@main/assets/20211127211122.jpg" />| 
+
 
 
 ## 赞助列表（时间倒叙排序） ⬇
