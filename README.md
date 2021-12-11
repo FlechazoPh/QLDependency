@@ -167,6 +167,15 @@ End
 </tr> 
 </table>
 
+## 赞助列表 ☕
+
+<table style="table-layout: fixed;" width=100% > 
+<tr> 
+ <td> <p align="center">昵称</p> * 人 </td> 
+ <td> <p align="center">赞助金额</p> 5.00 ￥ </td> 
+</tr> 
+</table>
+
 
 ## ★ Star 趋势 /Stargazers Over Time
 
