@@ -36,6 +36,10 @@ A timed task management panel that supports typescript, javaScript, python3, and
 
 【GitBook 文档仓库地址】https://doc.flechazo.ml/青龙/2021-11-17-青龙依赖一键安装脚本.html <br>
 
+
+【Telegram 群组】https://t.me/github_chats <br>
+
+
 欢迎前往原仓库点 <b>⭐ Star</b>
 </div>
 
@@ -163,7 +167,9 @@ End
  <td> <p align="center">支付宝</p> <img width="300" height="300" src="https://cdn.jsdelivr.net/gh/FlechazoPh/QLDependency@main/assets/3F596EC7-92D9-49DA-9CA3-78D2DE07838E.jpeg" /> </td> 
  <td> <p align="center">微信</p> <img width="300" height="300" src="https://cdn.jsdelivr.net/gh/FlechazoPh/QLDependency@main/assets/4B6DD0C1-8ECE-4C09-A0F7-3B6A36F399E7.jpeg" /></td> 
  <td> <p align="center">微信交流群(活码，需微信扫描两次)</p> <img width="300" height="300" src="https://cdn.jsdelivr.net/gh/FlechazoPh/QLDependency@main/assets/wechat_group.png" /></td> 
-   <td> <p align="center">加不了群请加微信好友(备注 Github)</p> <img width="300" height="300" src="https://cdn.jsdelivr.net/gh/FlechazoPh/QLDependency@main/assets/20211127211122.jpg" /></td> 
+ <td> <p align="center">Telegram 群组(https://t.me/github_chats)</p> <img width="300" height="300" src="https://cdn.jsdelivr.net/gh/FlechazoPh/QLDependency@main/assets/tggroup.png" /></td> 
+   
+  <td> <p align="center">加不了群请加微信好友(备注 Github)</p> <img width="300" height="300" src="https://cdn.jsdelivr.net/gh/FlechazoPh/QLDependency@main/assets/20211127211122.jpg" /></td> 
 </tr> 
 </table>
 
