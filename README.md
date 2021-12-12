@@ -36,14 +36,14 @@ A timed task management panel that supports typescript, javaScript, python3, and
 
 【GitBook 文档仓库地址】https://doc.flechazo.ml/青龙/2021-11-17-青龙依赖一键安装脚本.html <br>
 
-### [点这里请我吃个面包~ ](https://dun.mianbaoduo.com/@Flechazo) <br>
-<a href="https://dun.mianbaoduo.com/@Flechazo" target="_blank"><img src="https://img.niucodata.com/dundunfan-bt.png"></a>
-
 【Telegram 群组】https://t.me/github_chats <br>
 
 
 欢迎前往原仓库点 <b>⭐ Star</b>
 </div>
+
+### [点这里请我吃个面包~ ](https://dun.mianbaoduo.com/@Flechazo) <br>
+<a href="https://dun.mianbaoduo.com/@Flechazo" target="_blank"><img src="https://img.niucodata.com/dundunfan-bt.png"></a>
 
 # QLDependency
 # 青龙全依赖一键安装脚本 部署文档
