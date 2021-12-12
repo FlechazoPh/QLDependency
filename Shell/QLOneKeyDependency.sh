@@ -38,7 +38,7 @@ echo
 
 echo
 "当前node版本(如果没有node，请自行安装): "
-npm -v
+node -v
 
 echo
 "当前npm版本(如果没有npm，请自行安装): "
@@ -50,43 +50,9 @@ pnpm add -g pnpm
 
 pnpm install -g
 
-npm install -g npm
+npm install -g npm png-js date-fns axios crypto-js ts-md5 tslib @types/node requests tough-cookie jsdom download tunnel fs ws form-data
 
-npm install -g png-js
-
-npm install -g date-fns
-
-npm install -g axios
-
-npm install -g crypto-js
-
-npm install -g ts-md5
-
-npm install -g tslib
-
-npm install -g @types/node
-
-npm install -g requests
-
-npm install -g tough-cookie
-
-npm install -g jsdom
-
-npm install -g download
-
-npm install -g tunnel
-
-npm install -g fs
-
-npm install -g ws
-
-npm install -g form-data
-
-pnpm install -g js-base64
-
-pnpm install -g qrcode-terminal
-
-pnpm install -g silly-datetime
+pnpm install -g js-base64 qrcode-terminal silly-datetime
 
 pip3 install requests
 
