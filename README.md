@@ -36,6 +36,8 @@ A timed task management panel that supports typescript, javaScript, python3, and
 
 【GitBook 文档仓库地址】https://doc.flechazo.ml/青龙/2021-11-17-青龙依赖一键安装脚本.html <br>
 
+<h2 <b> [请我喝杯咖啡~](https://dun.mianbaoduo.com/@Flechazo) </b> </h2><br>
+
 
 【Telegram 群组】https://t.me/github_chats <br>
 
