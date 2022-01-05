@@ -39,7 +39,7 @@ A timed task management panel that supports typescript, javaScript, python3, and
 【Telegram 群组】:airplane: https://t.me/github_chats <br>
 
 
-欢迎前往仓库右上角点 <b>⭐ Star 收藏</b>
+欢迎前往原作者仓库右上角点 <b>⭐ Star 收藏和 follow</b>
 </div>
 
 ### [点这里请我吃个面包~ ](https://dun.mianbaoduo.com/@Flechazo) <br>
