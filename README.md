@@ -32,7 +32,7 @@ A timed task management panel that supports typescript, javaScript, python3, and
 <br>
 <h2 <b>本仓库源地址【 https://github.com/FlechazoPh/QLDependency 】</b> </h2><br>
 
-<h2 <b>个人自用稳定机场代理/翻墙-SSR【 https://bit.ly/33yDAQM 】</b> </h2><br>
+<h2 <b>个人自用稳定机场代理/翻墙-SSR 🏆 比特云-Bitcloud【 https://bit.ly/33yDAQM 】</b> </h2><br>
 
 
 
