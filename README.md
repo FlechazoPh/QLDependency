@@ -33,7 +33,7 @@ A timed task management panel that supports typescript, javaScript, python3, and
 <h2 <b>本仓库源地址【 https://github.com/FlechazoPh/QLDependency 】</b> </h2><br>
 
 
-### 🚀自用机场及Netflix流媒体合租平台推荐：（2021.08.17更新）
+### 🚀自用机场及Netflix流媒体合租平台推荐：（2022.01.15更新）
 * [🏆 比特云-Bitcloud](https://bit.ly/33yDAQM)
 * [🚖奈飞小铺-流媒体合租 Netflix/Disney+/HBO+](https://bit.ly/netflix-ihezu)
 
