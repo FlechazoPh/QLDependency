@@ -50,7 +50,7 @@ A timed task management panel that supports typescript, javaScript, python3, and
 
 
 
-### [点这里请我吃个面包~ ](https://dun.mianbaoduo.com/@Flechazo) <br>
+### 点这里请我吃个面包~ <br>
 <a href="https://dun.mianbaoduo.com/@Flechazo" target="_blank"><img src="https://img.niucodata.com/dundunfan-bt.png"></a>
 
 # QLDependency
