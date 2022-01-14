@@ -33,12 +33,6 @@ A timed task management panel that supports typescript, javaScript, python3, and
 <h2 <b>本仓库源地址【 https://github.com/FlechazoPh/QLDependency 】</b> </h2><br>
 
 
-### 🚀自用机场及Netflix流媒体合租平台推荐：（2022.01.15更新）
-* [🏆 比特云-Bitcloud](https://bit.ly/33yDAQM)
-* [🚖奈飞小铺-流媒体合租 Netflix/Disney+/HBO+](https://bit.ly/netflix-ihezu)
-
-
-
 
 <b>【Gitee 仓库地址(方便国内小伙伴访问)】https://gitee.com/exting/QLDependency </b> <br>
 
@@ -49,6 +43,12 @@ A timed task management panel that supports typescript, javaScript, python3, and
 
 欢迎前往原作者仓库右上角点 <b>⭐ Star 收藏和 follow</b>
 </div>
+
+### 🚀自用机场及Netflix流媒体合租平台推荐：（2022.01.15更新）
+* [🏆 比特云-Bitcloud](https://bit.ly/33yDAQM)
+* [🚖奈飞小铺-流媒体合租 Netflix/Disney+/HBO+](https://bit.ly/netflix-ihezu)
+
+
 
 ### [点这里请我吃个面包~ ](https://dun.mianbaoduo.com/@Flechazo) <br>
 <a href="https://dun.mianbaoduo.com/@Flechazo" target="_blank"><img src="https://img.niucodata.com/dundunfan-bt.png"></a>
