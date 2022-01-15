@@ -1,5 +1,7 @@
 <div align="center">
+  
 ![QLDependency Logo](https://cdn.jsdelivr.net/gh/FlechazoPh/QLDependency@main/assets/6dccd0ecb1a04c8084f4999265c47d98.png)
+
 </div>
 <!--Trap--:)-->
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
