@@ -202,6 +202,10 @@ End
 
 [![Stargazers over time](https://starchart.cc/FlechazoPh/QLDependency.svg)](https://starchart.cc/FlechazoPh/QLDependency)
 
+    <td align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=flechazoph&theme=radical">
+    </td>
+
 ## 鸣谢
 
 * [qinglong](https://github.com/whyour/qinglong)
