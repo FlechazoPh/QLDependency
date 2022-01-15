@@ -1,6 +1,6 @@
 <div align="center">
   
-![QLDependency Logo](https://cdn.jsdelivr.net/gh/FlechazoPh/QLDependency@main/assets/6dccd0ecb1a04c8084f4999265c47d98.png)
+![QLDependency Logo](https://cdn.jsdelivr.net/gh/FlechazoPh/QLDependency@main/assets/QQ20220115-203256.png)
 
 </div>
 
