@@ -48,6 +48,8 @@ A timed task management panel that supports typescript, javaScript, python3, and
 * [🏆 比特云-Bitcloud](https://bit.ly/33yDAQM)
 * [🚖 奈飞小铺-流媒体合租 Netflix/Disney+/HBO+](https://bit.ly/netflix-ihezu)
 
+<!--Trap--:)-->
+<a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 
 ### 点这里请我吃个面包~ <br>
