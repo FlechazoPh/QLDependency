@@ -1,3 +1,6 @@
+![QLDependency Logo](https://cdn.jsdelivr.net/gh/FlechazoPh/QLDependency@main/assets/6dccd0ecb1a04c8084f4999265c47d98.png)
+<!--Trap--:)-->
+<a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 ![青龙面板](https://user-images.githubusercontent.com/94276146/142231757-380c5221-7569-468e-9f68-2d09afeef538.png)
 
 ***
