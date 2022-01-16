@@ -216,6 +216,11 @@ End
 | Alan        | 2.50 ￥     |              |
 
 
+## 爱发电
+
+* [爱发电赞赏主页](https://afdian.net/@flechazo?tab=home)
+
+
 ## ★ Star 趋势 /Stargazers Over Time
 
 [![Stargazers over time](https://starchart.cc/FlechazoPh/QLDependency.svg)](https://starchart.cc/FlechazoPh/QLDependency)
