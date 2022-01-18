@@ -209,7 +209,7 @@ End
 <tr>
   <td> 支付宝赞助码
     <a href="https://github.com/FlechazoPh" target="_blank">
-  <img align="top" src="https://cdn.jsdelivr.net/gh/FlechazoPh/QLDependency@main/assets/3F596EC7-92D9-49DA-9CA3-78D2DE07838E.jpeg" />
+  <img align="center" src="https://cdn.jsdelivr.net/gh/FlechazoPh/QLDependency@main/assets/3F596EC7-92D9-49DA-9CA3-78D2DE07838E.jpeg" />
 </a> </td>
   <td> 微信赞助码 
   <td align="center">
