@@ -204,7 +204,7 @@ End
 | ----------- | ----------- |  ----------- | ----------- | ----------- |
 | ![SSH](https://cdn.jsdelivr.net/gh/FlechazoPh/QLDependency@main/assets/3F596EC7-92D9-49DA-9CA3-78D2DE07838E.jpeg) | ![SSH](https://cdn.jsdelivr.net/gh/FlechazoPh/QLDependency@main/assets/4B6DD0C1-8ECE-4C09-A0F7-3B6A36F399E7.jpeg)  | ![SSH](https://cdn.jsdelivr.net/gh/FlechazoPh/QLDependency@main/assets/cli_wechat.png) | ![SSH](https://cdn.jsdelivr.net/gh/FlechazoPh/QLDependency@main/assets/tggroup.png) | ![SSH](https://cdn.jsdelivr.net/gh/FlechazoPh/QLDependency@main/assets/20211127211122.jpg) | 
 
-
+<!-- 
 <table border="0">
 <tr>
   <td> 支付宝赞助码
@@ -231,7 +231,7 @@ End
 </a> </td>
 </tr>
 </table>
-
+ -->
 
 <!--Trap--:)-->
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
