@@ -260,6 +260,10 @@ End
    <td align="center">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=flechazoph&theme=radical">
    </td>
+   
+   
+## LICENSE
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FFlechazoPh%2FQLDependency.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FFlechazoPh%2FQLDependency?ref=badge_large)
 
 ## 鸣谢
 
