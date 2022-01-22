@@ -31,6 +31,7 @@ A timed task management panel that supports typescript, javaScript, python3, and
 ![GitHub forks](https://img.shields.io/github/forks/FlechazoPh/QLDependency)
 ![GitHub Workflow Status](https://img.shields.io/github/workflow/status/FlechazoPh/QLDependency/Release)
 [![docker-image-size-image]][docker-image-size-url]
+![GitHub](https://img.shields.io/github/license/flechazoph/qldependency)
 [![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FFlechazoPh%2FQLDependency.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FFlechazoPh%2FQLDependency?ref=badge_shield)
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/whyour/qinglong)
