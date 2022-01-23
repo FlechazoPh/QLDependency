@@ -257,6 +257,7 @@ End
 ## ★ Star 趋势 /Stargazers Over Time
 
 [![Stargazers over time](https://starchart.cc/FlechazoPh/QLDependency.svg)](https://starchart.cc/FlechazoPh/QLDependency)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FFlechazoPh%2FQLDependency.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FFlechazoPh%2FQLDependency?ref=badge_shield)
 
    <td align="center">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=flechazoph&theme=radical">
@@ -275,3 +276,7 @@ End
 
 
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FFlechazoPh%2FQLDependency.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FFlechazoPh%2FQLDependency?ref=badge_large)
