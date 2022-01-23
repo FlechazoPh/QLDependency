@@ -264,9 +264,6 @@ End
    </td>
    
    
-## LICENSE
-[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FFlechazoPh%2FQLDependency.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FFlechazoPh%2FQLDependency?ref=badge_large)
-
 ## 鸣谢
 
 * [qinglong](https://github.com/whyour/qinglong)
