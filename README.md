@@ -238,7 +238,7 @@ End
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 
-## 赞助列表（时间倒叙排序） ⬇
+## 赞助（时间倒叙排序） ⬇
 
 |    昵称     |  赞助金额   |     留言     |
 | ----------- | ----------- |  ----------- |
@@ -251,7 +251,7 @@ End
 | Alan        | 2.50 ￥     |              |
 
 
-## 爱发电
+## 爱发电 (请我喝杯咖啡~)
 
 * [爱发电赞赏主页](https://afdian.net/@flechazo?tab=home)
 
