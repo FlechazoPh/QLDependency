@@ -11,8 +11,6 @@
 
 ***
 
-![Vister](http://antzuhl.cn:4000/get/@flechazoph)
-
 <h1 align="center">【青龙】全依赖环境一键安装脚本 | QLDependency </h1>
 
 <div align="center">
