@@ -238,7 +238,7 @@ End
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 
-## 赞助（时间倒叙排序） ⬇
+## 赞助（从新到旧） ⬇
 
 |    昵称     |  赞助金额   |     留言     |
 | ----------- | ----------- |  ----------- |
