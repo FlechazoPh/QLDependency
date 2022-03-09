@@ -181,6 +181,12 @@ End
 
 不介意的话顺手点个 **★ Star ** (本页面顶部右上方 ★ ), **方便以后收到脚本更新~**
 
+
+## 常见问题
+
+安装报错等常见问题请参考： 
+* [常见问题答疑](https://github.com/FlechazoPh/QLDependency/issues?q=is%3Aissue+is%3Aclosed)
+
 ## 附：
 有新的需要的依赖，请测试完成后提交pull request，等待审核通过合并到项目中
 
