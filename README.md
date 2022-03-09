@@ -79,7 +79,7 @@ A timed task management panel that supports typescript, javaScript, python3, and
 ## 特别声明
 
 <details>
-<summary>特别声明</summary>
+<summary>特别声明 点我展开</summary>
 
 
 - 本项目内所有资源文件，禁止任何公众号、自媒体进行任何形式的转载、发布。
@@ -94,13 +94,12 @@ A timed task management panel that supports typescript, javaScript, python3, and
 
 - 任何以任何方式查看此项目的人或直接或间接使用该项目的任何脚本的使用者都应仔细阅读此声明。本人保留随时更改或补充此免责声明的权利。一旦使用并复制了任何相关脚本或Script项目的规则，则视为您已接受此免责声明。
 
-**您必须在下载后的24小时内从计算机或手机中完全删除以上内容**
+**您必须在下载后的24小时内从计算机或手机中完全删除以下内容**
 </details>
 
 > ***您使用或者复制了本仓库且本人制作的任何脚本，则视为 `已接受` 以上声明，请仔细阅读***
 
 
-***
 ***
 
 新版本的青龙(2.10.2+ )，在运行脚本的时候，经常出现
