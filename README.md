@@ -7,7 +7,7 @@
 <!--Trap--:)-->
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-![青龙面板](https://user-images.githubusercontent.com/94276146/142231757-380c5221-7569-468e-9f68-2d09afeef538.png)
+<!-- ![青龙面板](https://user-images.githubusercontent.com/94276146/142231757-380c5221-7569-468e-9f68-2d09afeef538.png) -->
 
 ***
 
@@ -43,13 +43,11 @@ A timed task management panel that supports typescript, javaScript, python3, and
 <h2 <b>本仓库源地址【 https://github.com/FlechazoPh/QLDependency 】</b> </h2><br>
 
 
-
 <b>【Gitee 仓库地址(方便国内小伙伴访问)】https://gitee.com/exting/QLDependency </b> <br>
 
 【GitBook 文档仓库地址】https://doc.flechazo.ml/青龙/2021-11-17-青龙依赖一键安装脚本.html <br>
 
 【Telegram 群组】:airplane: https://t.me/github_chats <br>
-
 
 欢迎前往原作者仓库右上角点 <b>⭐ Star 收藏和 follow</b>
 </div>
@@ -72,13 +70,17 @@ A timed task management panel that supports typescript, javaScript, python3, and
 # 青龙全依赖一键安装脚本 部署文档
 
 
-[安装报错等常见问题参考](#常见问题)
+**[安装报错等常见问题参考](#常见问题)**
 
 
-文档地址： [GitBook 文档](https://doc.flechazo.ml/青龙/2021-11-17-青龙依赖一键安装脚本.html)
+<!-- 文档地址： [GitBook 文档](https://doc.flechazo.ml/青龙/2021-11-17-青龙依赖一键安装脚本.html) -->
 
 
 ## 特别声明
+
+<details>
+<summary>特别声明</summary>
+
 
 - 本项目内所有资源文件，禁止任何公众号、自媒体进行任何形式的转载、发布。
 
@@ -93,8 +95,9 @@ A timed task management panel that supports typescript, javaScript, python3, and
 - 任何以任何方式查看此项目的人或直接或间接使用该项目的任何脚本的使用者都应仔细阅读此声明。本人保留随时更改或补充此免责声明的权利。一旦使用并复制了任何相关脚本或Script项目的规则，则视为您已接受此免责声明。
 
 **您必须在下载后的24小时内从计算机或手机中完全删除以上内容**
+</details>
 
-> ***您使用或者复制了本仓库且本人制作的任何脚本，则视为 `已接受` 此声明，请仔细阅读***
+> ***您使用或者复制了本仓库且本人制作的任何脚本，则视为 `已接受` 以上声明，请仔细阅读***
 
 
 ***
