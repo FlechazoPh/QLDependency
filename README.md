@@ -54,7 +54,7 @@ A timed task management panel that supports typescript, javaScript, python3, and
 
 ### ⭐ 推荐收藏项目
 * [AwesomeScripts - 自用 Quantumult X 脚本](https://github.com/FlechazoPh/AwesomeScripts)
-* **头像壁纸微信小程序作品-情侣头像精选库**，欢迎体验~ <img src=https://cdn.jsdelivr.net/gh/FlechazoPh/QLDependency@main/assets/miniprogram.png width=30% />
+* **头像壁纸微信小程序作品-【情侣头像精选库】**，欢迎体验~ <img src=https://cdn.jsdelivr.net/gh/FlechazoPh/QLDependency@main/assets/miniprogram.png width=30% />
 <!-- ![SSH](https://cdn.jsdelivr.net/gh/FlechazoPh/QLDependency@main/assets/miniprogram.png) -->
 
 <br>
