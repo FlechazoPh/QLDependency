@@ -39,6 +39,7 @@ A timed task management panel that supports typescript, javaScript, python3, and
 [docker-image-size-image]: https://img.shields.io/docker/image-size/whyour/qinglong?style=flat
 [docker-image-size-url]: https://hub.docker.com/r/whyour/qinglong
  
+  <body>
 <br>
   <!-- Default Statcounter code for QLDependency
 https://github.com/FlechazoPh/QLDependency -->
@@ -57,6 +58,8 @@ referrerPolicy="no-referrer-when-downgrade"></a></div></noscript>
 <!-- End of Statcounter Code -->
 
 <br>
+    </bdy>
+  
 <h2 <b>本仓库源地址【 https://github.com/FlechazoPh/QLDependency 】</b> </h2><br>
 
 
