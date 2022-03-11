@@ -56,7 +56,8 @@ A timed task management panel that supports typescript, javaScript, python3, and
 * [AwesomeScripts - 自用 Quantumult X 脚本](https://github.com/FlechazoPh/AwesomeScripts)
 * **头像壁纸微信小程序作品-情侣头像精选库**，欢迎体验~ <img src=https://cdn.jsdelivr.net/gh/FlechazoPh/QLDependency@main/assets/miniprogram.png width=30% />
 <!-- ![SSH](https://cdn.jsdelivr.net/gh/FlechazoPh/QLDependency@main/assets/miniprogram.png) -->
-
+<br>
+<br>
 ### 🚀 稳定自用三年机场及Netflix流媒体合租平台推荐：（2022.01.15更新）
 * [🏆 Windscribe - Free VPN and Ad Block](https://bit.ly/3KA4MPv) - **优点有免费 手机APP，不需要配置 SSR**，直接连接，每月免费2G流量，APP 下载二维码：[二维码](https://github.com/FlechazoPh/QLDependency/blob/main/assets/winningpc.png?raw=true)
 
@@ -223,6 +224,9 @@ End
 | ----------- | ----------- |  ----------- | ----------- | ----------- |
 | ![SSH](https://cdn.jsdelivr.net/gh/FlechazoPh/QLDependency@main/assets/3F596EC7-92D9-49DA-9CA3-78D2DE07838E.jpeg) | ![SSH](https://cdn.jsdelivr.net/gh/FlechazoPh/QLDependency@main/assets/4B6DD0C1-8ECE-4C09-A0F7-3B6A36F399E7.jpeg)  | ![SSH](https://cdn.jsdelivr.net/gh/FlechazoPh/QLDependency@main/assets/cli_wechat.png) | ![SSH](https://cdn.jsdelivr.net/gh/FlechazoPh/QLDependency@main/assets/tggroup.png) | ![SSH](https://cdn.jsdelivr.net/gh/FlechazoPh/QLDependency@main/assets/20211127211122.jpg) | 
 
+<br>
+### ⭐ 推荐项目
+* **头像壁纸微信小程序作品-情侣头像精选库**，欢迎扫码体验~ <img src=https://cdn.jsdelivr.net/gh/FlechazoPh/QLDependency@main/assets/miniprogram.png width=40% />
 <!-- 
 <table border="0">
 <tr>
