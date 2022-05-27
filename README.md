@@ -154,6 +154,13 @@ docker exec -it qinglong bash -c "$(curl -fsSL https://raw.githubusercontent.com
 ```
 
 
+**【更新】** 版本号 2.12+ 的新版本青龙安装失败请尝试：
+
+```bash
+
+docker exec -it qinglong bash -c "$(curl -fsSL https://raw.githubusercontent.com/FlechazoPh/QLDependency/main/Shell/XinQLOneKey.sh | sh)"
+
+```
 
 
 ## 具体执行方法：
