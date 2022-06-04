@@ -40,7 +40,7 @@ A timed task management panel that supports typescript, javaScript, python3, and
 [docker-image-size-url]: https://hub.docker.com/r/whyour/qinglong
  
   
-<h2 <b>本仓库源地址【 https://github.com/FlechazoPh/QLDependency 】</b> </h2><br>
+<h2 <b>本仓库原地址【 https://github.com/FlechazoPh/QLDependency 】</b> </h2><br>
 
 
 <b>【Gitee 仓库地址(方便国内小伙伴访问)】https://gitee.com/exting/QLDependency </b> <br>
