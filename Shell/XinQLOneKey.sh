@@ -44,7 +44,7 @@ echo
 "当前npm版本(如果没有npm，请自行安装): "
 npm -v
 
-npm config set registry https://registry.npm.taobao.org
+npm config set registry https://registry.npmmirror.com
 cd /ql
 pnpm add -g pnpm
 
