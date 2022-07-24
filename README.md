@@ -194,7 +194,7 @@ docker exec -it qinglong bash -c "$(curl -fsSL https://ghproxy.com/https://raw.g
 
 ```bash
 
-Docker restart qinglong
+docker restart qinglong
 
 ```
 
