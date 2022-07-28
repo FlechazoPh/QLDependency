@@ -28,17 +28,29 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          file: "*.md;*.zip;random-name-*.txt"
-          delete_file: "random-name-*.txt;random-*.txt"
+          file: "*.*"
+          delete_file: ""
           release_id: ${{ steps.create_release.outputs.id }}
-          overwrite: true
+          overwrite: false
           verbose: true
       - name: Gzip
         run: |
           mkdir OneKeyQLDependency
           cp Shell/QLOneKeyDependency.sh README.md OneKeyQLDependency
           tar -cvf OneKeyQLDependency.tar OneKeyQLDependency
-
+      - name: Simple Upload to Release
+        uses: xresloader/upload-to-github-release@v1
+        env:
+            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+      #  tag_name: ${{ steps.get_version.outputs.VERSION }}
+#           release_name: ${{ steps.get_version.outputs.VERSION }}
+          file: "OneKeyQLDependency.tar"
+          tags: false
+          draft: false
+          release_id: ${{ steps.create_release.outputs.id }}
+          overwrite: false
+          verbose: true
       - name: Mirror the Github organization repos to Gitee.
         uses: Yikun/hub-mirror-action@master
         with:
