@@ -27,7 +27,7 @@ jobs:
             欢迎点 Star, 下载
             Welcome To Star this repo.
             upload-to-github-release works with ```actions/create-release```
-          draft: false
+          draft: true
           prerelease: false
       - uses: xresloader/upload-to-github-release@master
         env:
