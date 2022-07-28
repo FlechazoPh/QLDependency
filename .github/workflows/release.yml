@@ -43,8 +43,8 @@ jobs:
         env:
             GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-      #  tag_name: ${{ steps.get_version.outputs.VERSION }}
-#           release_name: ${{ steps.get_version.outputs.VERSION }}
+          tag_name: ${{ steps.get_version.outputs.VERSION }}
+          release_name: ${{ steps.get_version.outputs.VERSION }}
           file: "OneKeyQLDependency.tar"
           tags: false
           draft: false
