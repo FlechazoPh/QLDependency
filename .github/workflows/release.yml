@@ -18,36 +18,27 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # This token is provided by Actions, you do not need to create your own token
         with:
-#           tag_name: ${{ github.ref }}
-#           release_name: Release ${{ github.ref }}
-          tag_name: "v6.2.3" #Version ${{ steps.get_version.outputs.VERSION }}
-          release_name: Publish Update Release ${{ steps.get_version.outputs.VERSION }}
+          tag_name: ${{ github.ref }}
+          release_name: Release ${{ github.ref }}
           body: |
-            Update: Add some dependences.
-            Fix: Fix Bugs
-            Release Version  ```OneKeyQLDependency.tar``` Click to download
-            欢迎点 Star, 下载
-            Welcome To Star this repo.
+            Test upload-to-github-release works with ```actions/create-release```
           draft: true
           prerelease: false
+      - uses: xresloader/upload-to-github-release@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          file: "*.md;*.zip;random-name-*.txt"
+          delete_file: "random-name-*.txt;random-*.txt"
+          release_id: ${{ steps.create_release.outputs.id }}
+          overwrite: true
+          verbose: true
       - name: Gzip
         run: |
           mkdir OneKeyQLDependency
           cp Shell/QLOneKeyDependency.sh README.md OneKeyQLDependency
           tar -cvf OneKeyQLDependency.tar OneKeyQLDependency
-      - name: Simple Upload to Release
-        uses: xresloader/upload-to-github-release@v1
-        env:
-            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        with:
-      #  tag_name: ${{ steps.get_version.outputs.VERSION }}
-#           release_name: ${{ steps.get_version.outputs.VERSION }}
-          file: "OneKeyQLDependency.tar"
-          tags: false
-          draft: false
-          release_id: ${{ steps.create_release.outputs.id }}
-          overwrite: false
-          verbose: true
+
       - name: Mirror the Github organization repos to Gitee.
         uses: Yikun/hub-mirror-action@master
         with:
