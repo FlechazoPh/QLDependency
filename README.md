@@ -64,10 +64,10 @@ A timed task management panel that supports typescript, javaScript, python3, and
 <br>
 
 ### 🚀 稳定自用三年机场及Netflix流媒体合租平台推荐：（2022.11.25更新）
-* [🏆 Windscribe - Free VPN and Ad Block](https://windscribe.com/yo/pc47smnk) - **⬅️ 优点有免费 手机APP，不需要配置 SSR**，直接连接，每月免费2G流量，APP 下载
+* [🏆 Windscribe - Free VPN and Ad Block](https://windscribe.com/yo/pc47smnk) - ⬅️ 优点有免费 手机APP，不需要配置 SSR，直接连接，每月免费2G流量，APP 下载
 
 * [🥈 比特云-Bitcloud](https://bit.ly/3yYiTuD) ⬅️ 点击链接注册即可获得优惠折扣券
-* [🚖 奈飞小铺-流媒体合租 Netflix/Disney+/HBO+](https://ihezu.gold/kCm7mj) ⬅️ 点击链接注册即可获得优惠折扣券
+* [🚖 奈飞小铺-流媒体合租 Netflix/Disney+/HBO+](https://ihezu.gold/kCm7mj) ⬅️ **点击链接注册即可获得优惠折扣券 欢迎支持**
 
 <!--Trap--:)-->
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
