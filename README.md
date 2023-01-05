@@ -69,10 +69,8 @@ A timed task management panel that supports typescript, javaScript, python3, and
 
 * [📱 PikPak - 极速秒存的私密云盘](https://toapp.mypikpak.com/activity/invited?code=47829232) - ⬅️ PikPak 是用过最好的磁力下载软件，转存也很方便. 注册获得 10TB 无限存储空间
 
-
-* [✈️ Windscribe - Free VPN and Ad Block](https://windscribe.com/yo/pc47smnk) - ⬅️ 优点有免费 手机APP，不需要配置 SSR，直接连接，每月免费2G流量，APP 下载
-
 * [🥈 比特云-Bitcloud](https://bit.ly/3yYiTuD) ⬅️ 点击链接注册即可获得优惠折扣券
+* 
 * [🚖 奈飞小铺-流媒体合租 Netflix/Disney+/HBO+](https://ihezu.gold/kCm7mj) ⬅️ **点击链接注册即可获得优惠折扣券 欢迎支持**
 
 <!--Trap--:)-->
