@@ -65,7 +65,7 @@ A timed task management panel that supports typescript, javaScript, python3, and
 
 ### 🚀 稳定自用 IPA 个人签名证书及Netflix流媒体合租平台推荐：（2023.01.05 更新）
 
-* [🏆 AppleP12 - 稳定高质量的个人开发者 P12 证书](https://applep12.com/?InviteCode=2185417EA932) - ⬅️ 我们的证书来自全球多个国家，避免了苹果的封锁，随时轻松获取P12证书。价格便宜。
+* [🏆 AppleP12 - 稳定高质量的个人开发者 P12 自签证书](https://applep12.com/?InviteCode=2185417EA932) - ⬅️ 我们的证书来自全球多个国家，避免了苹果的封锁，随时轻松获取P12证书。价格便宜。
 
 * [✈️ Windscribe - Free VPN and Ad Block](https://windscribe.com/yo/pc47smnk) - ⬅️ 优点有免费 手机APP，不需要配置 SSR，直接连接，每月免费2G流量，APP 下载
 
