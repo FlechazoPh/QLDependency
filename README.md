@@ -42,6 +42,9 @@ A timed task management panel that supports typescript, javaScript, python3, and
   
 <h2 <b>本仓库原地址【 https://github.com/FlechazoPh/QLDependency 】</b> </h2><br>
 
+<details>
+<summary>链接文档 点我展开</summary>
+
 
 <b>【Gitee 仓库地址(方便国内小伙伴访问)】https://gitee.com/exting/QLDependency </b> <br>
 
@@ -49,10 +52,14 @@ A timed task management panel that supports typescript, javaScript, python3, and
 
 【Telegram 群组】:airplane: https://t.me/github_chats <br>
 
-欢迎前往原作者仓库右上角点 <b>⭐ Star 收藏和 关注 Follow</b>
+
 </div>
 
 <br>
+
+</details>
+
+欢迎前往原作者仓库右上角点 <b>⭐ Star 收藏和 关注 Follow</b>
 
 ### 🚀 稳定自用 IPA 个人签名证书及稳定机场推荐：（2024.01.03 更新）
 
