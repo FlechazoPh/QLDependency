@@ -52,22 +52,13 @@ A timed task management panel that supports typescript, javaScript, python3, and
 欢迎前往原作者仓库右上角点 <b>⭐ Star 收藏和 关注 Follow</b>
 </div>
 
-### ⭐ 推荐收藏项目
-* [AwesomeScripts - 自用 Quantumult X 脚本](https://github.com/FlechazoPh/AwesomeScripts)
-* **我最近新开发上线的壁纸头像小程序作品-【情侣头像精选库】**，欢迎扫码支持体验~ 
-<td align="center">
-  <img src=https://cdn.jsdelivr.net/gh/FlechazoPh/QLDependency@main/assets/miniprogram.png width=40% />
-</td>
-<!-- ![SSH](https://cdn.jsdelivr.net/gh/FlechazoPh/QLDependency@main/assets/miniprogram.png) -->
-
-<br>
 <br>
 
-### 🚀 稳定自用 IPA 个人签名证书及Netflix流媒体合租平台推荐：（2023.01.05 更新）
+### 🚀 稳定自用 IPA 个人签名证书及稳定机场推荐：（2023.01.05 更新）
 
-* [🏆 AppleP12 - 稳定高质量的个人开发者 P12 自签证书](https://applep12.com/?InviteCode=2185417EA932) - ⬅️ 我们的证书来自全球多个国家，避免了苹果的封锁，随时轻松获取P12证书。价格便宜。
+* [🚀 一键连（白嫖机场）](https://www.strongswans.net/#/register?code=u6uG2wdN) - ⬅️ 注册就送1个月1024G，邀请可无限获取流量，邀请赠送500G和1个年时长/人
 
-* [📱 PikPak - 极速秒存的私密云盘](https://toapp.mypikpak.com/activity/invited?code=47829232) - ⬅️ PikPak 是用过最好的磁力下载软件，转存也很方便. 注册获得 10TB 无限存储空间
+* [🏆 AppleP12 - 稳定高质量的个人开发者 P12 自签证书](https://applep12.com/?InviteCode=2185417EA932) - ⬅️ 我们的IPA自签证书来自全球多个国家，避免了苹果的封锁，多年稳定，随时轻松获取P12证书。价格便宜。
 
 * [🥈 比特云-Bitcloud](https://bit.ly/3yYiTuD) ⬅️ 点击链接注册即可获得优惠折扣券
 
@@ -302,7 +293,17 @@ End
    <td align="center">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=flechazoph&theme=radical">
    </td>
-   
+
+
+### ⭐ 推荐收藏项目
+* [AwesomeScripts - 自用 Quantumult X 脚本](https://github.com/FlechazoPh/AwesomeScripts)
+* **我最近新开发上线的壁纸头像小程序作品-【情侣头像精选库】**，欢迎扫码支持体验~ 
+<td align="center">
+  <img src=https://cdn.jsdelivr.net/gh/FlechazoPh/QLDependency@main/assets/miniprogram.png width=40% />
+</td>
+<!-- ![SSH](https://cdn.jsdelivr.net/gh/FlechazoPh/QLDependency@main/assets/miniprogram.png) -->
+
+<br>
    
 ## 鸣谢
 
