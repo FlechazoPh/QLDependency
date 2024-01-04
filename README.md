@@ -68,8 +68,14 @@ A timed task management panel that supports typescript, javaScript, python3, and
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 
+## 爱发电 (可以请我喝杯咖啡咩☕️ 谢谢~)
+
+* [爱发电赞赏主页](https://afdian.net/@flechazo?tab=home)
+
+<!--
 ### 点这里请我吃个面包~ <br>
 <a href="https://dun.mianbaoduo.com/@Flechazo" target="_blank"><img src="https://img.niucodata.com/dundunfan-bt.png"></a>
+-->
 
 # QLDependency
 # 青龙全依赖一键安装脚本 部署文档
