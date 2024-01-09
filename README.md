@@ -64,7 +64,7 @@ A timed task management panel that supports typescript, javaScript, python3, and
 ### 🚀 稳定自用 IPA 个人签名证书及稳定机场推荐：（2024.01.03 更新）
 
 * 1. [🚀 一键连（白嫖机场）](https://www.strongswans.net/#/register?code=u6uG2wdN) - ⬅️ 注册就送1个月1024G，邀请可无限获取流量，邀请赠送500G和1个年时长/人
-
+<br>
 * 2. [🏆 AppleP12 - 稳定高质量的个人开发者 P12 自签证书](https://applep12.com/?InviteCode=2185417EA932) - ⬅️ 我们的IPA自签证书来自全球多个国家，避免了苹果的封锁，多年稳定，随时轻松获取P12证书。价格便宜。
 
 
