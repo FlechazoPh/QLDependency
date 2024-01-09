@@ -67,9 +67,12 @@ A timed task management panel that supports typescript, javaScript, python3, and
 
 * 2. [🏆 AppleP12 - 稳定高质量的个人开发者 P12 自签证书](https://applep12.com/?InviteCode=2185417EA932) - ⬅️ 我们的IPA自签证书来自全球多个国家，避免了苹果的封锁，多年稳定，随时轻松获取P12证书。价格便宜。
 
-* 3. [🥈 比特云-Bitcloud](https://bit.ly/3yYiTuD) ⬅️ 点击链接注册即可获得优惠折扣券
 
-* 4. [🚖 奈飞小铺-流媒体合租 Netflix/Disney+/HBO+](https://ihezu.gold/kCm7mj) ⬅️ **点击链接注册即可获得优惠折扣券 欢迎支持**
+* 3. [🥈 ChatGPT-4-AI聊天APIKey](https://api.playaichat.cn/register?aff=T5pe) ⬅️ 点击注册免费使用
+     
+* 4. [👿 比特云-Bitcloud](https://bit.ly/3yYiTuD) ⬅️ 点击链接注册即可获得优惠折扣券
+
+* 5. [🚖 奈飞小铺-流媒体合租 Netflix/Disney+/HBO+](https://ihezu.gold/kCm7mj) ⬅️ **点击链接注册即可获得优惠折扣券 欢迎支持**
 
 <!--Trap--:)-->
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
