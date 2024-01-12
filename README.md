@@ -331,7 +331,9 @@ End
 
 * [crontab-ui](https://github.com/alseambusher/crontab-ui)
 
+* ![logo](https://github.com/FlechazoPh/QLDependency/assets/94276146/27815428-39f6-4391-bb4f-73ff6b765abc)
 
+* [DartNode] (https://app.dartnode.com/)
 
 
 
