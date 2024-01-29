@@ -63,19 +63,16 @@ A timed task management panel that supports typescript, javaScript, python3, and
 
 ### 🚀 稳定自用 IPA 个人签名证书及稳定机场推荐：（2024.01.03 更新）
 
-* 1. [🚀 一键连（白嫖机场）](https://www.strongswans.net/#/register?code=u6uG2wdN) - ⬅️ 注册就送1个月1024G，邀请可无限获取流量，邀请赠送500G和1个年时长/人
+* [🏆 AppleP12 - 稳定高质量的个人开发者 P12 自签证书](https://applep12.com/?InviteCode=2185417EA932) - ⬅️ 我们的IPA自签证书来自全球多个国家，避免了苹果的封锁，多年稳定，随时轻松获取P12证书。价格便宜。
 <br>
 
-* 2. [🏆 AppleP12 - 稳定高质量的个人开发者 P12 自签证书](https://applep12.com/?InviteCode=2185417EA932) - ⬅️ 我们的IPA自签证书来自全球多个国家，避免了苹果的封锁，多年稳定，随时轻松获取P12证书。价格便宜。
+* [🥈 ChatGPT-4-AI聊天APIKey](https://api.playaichat.cn/register?aff=T5pe) ⬅️ 点击注册免费使用
 <br>
 
-* 3. [🥈 ChatGPT-4-AI聊天APIKey](https://api.playaichat.cn/register?aff=T5pe) ⬅️ 点击注册免费使用
+* [👿 比特云-Bitcloud](https://bit.ly/3yYiTuD) ⬅️ 点击链接注册即可获得优惠折扣券
 <br>
 
-* 4. [👿 比特云-Bitcloud](https://bit.ly/3yYiTuD) ⬅️ 点击链接注册即可获得优惠折扣券
-<br>
-
-* 5. [🚖 奈飞小铺-流媒体合租 Netflix/Disney+/HBO+](https://ihezu.gold/kCm7mj) ⬅️ **点击链接注册即可获得优惠折扣券 欢迎支持**
+* [🚖 奈飞小铺-流媒体合租 Netflix/Disney+/HBO+](https://ihezu.gold/kCm7mj) ⬅️ **点击链接注册即可获得优惠折扣券 欢迎支持**
 <br>
 
 <!--Trap--:)-->
