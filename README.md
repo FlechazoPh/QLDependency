@@ -246,7 +246,7 @@ End
 <!-- </table> -->
 |    支付宝赞助码     |  微信赞助码   |    ** 微信交流群(活码，需微信扫描两次) **    | Telegram 群组(https://t.me/github_chats) | 加不了群请加微信好友(备注 Github) |
 | ----------- | ----------- |  ----------- | ----------- | ----------- |
-| ![SSH](https://github.com/user-attachments/assets/9b93a977-9faf-4eb8-8922-4e9f519669c4) | ![SSH](https://github.com/user-attachments/assets/3713ddd7-047c-4b2d-b9d7-8117c186c2a4)  | ![SSH](https://cdn.jsdelivr.net/gh/FlechazoPh/QLDependency@main/assets/cli_wechat.png) | ![SSH](https://cdn.jsdelivr.net/gh/FlechazoPh/QLDependency@main/assets/tggroup.png) | ![SSH](https://cdn.jsdelivr.net/gh/FlechazoPh/QLDependency@main/assets/20211127211122.jpg) | 
+| ![SSH](https://github.com/user-attachments/assets/cc68c638-69d0-4304-b603-4d31bca7aab6) | ![SSH](https://github.com/user-attachments/assets/3713ddd7-047c-4b2d-b9d7-8117c186c2a4)  | ![SSH](https://cdn.jsdelivr.net/gh/FlechazoPh/QLDependency@main/assets/cli_wechat.png) | ![SSH](https://cdn.jsdelivr.net/gh/FlechazoPh/QLDependency@main/assets/tggroup.png) | ![SSH](https://cdn.jsdelivr.net/gh/FlechazoPh/QLDependency@main/assets/20211127211122.jpg) | 
 
 <br>
 
