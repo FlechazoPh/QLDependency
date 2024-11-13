@@ -149,7 +149,7 @@ or
 
 ```bash
 
-docker exec -it qinglong bash -c "$(curl -fsSL https://ghproxy.com/https://raw.githubusercontent.com/FlechazoPh/QLDependency/main/Shell/QLOneKeyDependency.sh | bash)"
+docker exec -it qinglong bash -c "$(curl -fsSL https://ghp.ci/https://raw.githubusercontent.com/FlechazoPh/QLDependency/main/Shell/QLOneKeyDependency.sh | bash)"
 
 ```
 
