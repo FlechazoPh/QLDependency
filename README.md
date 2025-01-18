@@ -75,6 +75,7 @@ A timed task management panel that supports typescript, javaScript, python3, and
 * [🚖 奈飞小铺-流媒体合租 Netflix/Disney+/HBO+](https://ihezu.gold/kCm7mj) ⬅️ **点击链接注册即可获得优惠折扣券 欢迎支持**
 <br>
 
+[<img src="https://api.gitsponsors.com/api/badge/img?id=429083284" height="20">](https://api.gitsponsors.com/api/badge/link?p=Iesp83D1ogKOYrhP7RNckZR6mH4YabaznPVO3bmtLERGdeKLBqADV4ikaNxjONwV8Jgt1rrsZ0z3VX0D21DbTQ==)
 <!--Trap--:)-->
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
