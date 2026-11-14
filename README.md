@@ -224,6 +224,31 @@ End
 不介意的话顺手点个 **★ Star ** (本页面顶部右上方 ★ ), **方便以后收到脚本更新~**
 
 
+## 无法在线执行脚本时的手动安装方法
+
+如果青龙容器无法访问 GitHub 或加速地址，直接执行 `docker exec ... "$(curl ... | bash)"` 会因 `curl` 拉取失败而中断。此时可以在宿主机下载或新建脚本，再用 `docker cp` 复制进容器执行。
+
+1. 在宿主机下载脚本（无法直连 GitHub 时可换用可访问的镜像地址）：
+
+```bash
+curl -fsSL -o QLOneKeyDependency.sh https://raw.githubusercontent.com/FlechazoPh/QLDependency/main/Shell/QLOneKeyDependency.sh
+```
+
+2. 将脚本复制到青龙容器（容器名按实际情况替换）：
+
+```bash
+docker cp QLOneKeyDependency.sh qinglong:/tmp/QLOneKeyDependency.sh
+```
+
+3. 在容器内手动执行：
+
+```bash
+docker exec -it qinglong bash /tmp/QLOneKeyDependency.sh
+```
+
+青龙 2.12+ 版本请将脚本名替换为 `XinQLOneKey.sh`。如果宿主机也无法在线下载，可以在本地新建同名脚本并粘贴仓库 `Shell/` 目录下的内容，再按上面的命令复制执行。
+
+
 ## 常见问题
 
 安装报错等常见问题请参考： 
